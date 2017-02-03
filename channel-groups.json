@@ -9,7 +9,7 @@
           "subtitle" : "Kobble Base Tracks",
           "channel" : {
             "owner" : "kobble-git",
-            "repo" : "kobble-common-data",
+            "repo" : "kobble-data-common",
             "path" : "channels/kobble.json"
           }
         }
