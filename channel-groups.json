@@ -1,1 +1,9 @@
-{"groups":[{"channels":[],"isShowing":true,"name":"Starter Channels"}]}
+{"groups":[{"channels":[{
+          "title" : "Kobble",
+          "subtitle" : "Kobble Base Tracks",
+          "channel" : {
+            "owner" : "kobble-git",
+            "repo" : "kobble-data-common",
+            "path" : "channels/kobble.json"
+          }
+        }],"isShowing":true,"name":"Starter Channels"}]}
