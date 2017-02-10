@@ -1,1 +1,1 @@
-{"groups":[{"channels":[{"channel":{"owner":"kobble-git","path":"channels/bills.json","repo":"kobble-data"},"subtitle":"Bills Subtitle","title":"Bills"},{"channel":{"owner":"kobble-git","path":"channels/kobble.json","repo":"kobble-data-common"},"subtitle":"Kobble Base Tracks","title":"Kobble"}],"isShowing":true,"name":"Starter Channels"}]}
+{"groups":[{"channels":[{"channel":{"owner":"kobble-git","path":"channels/kobble.json","repo":"kobble-data-common"},"subtitle":"Kobble Base Tracks","title":"Kobble"}],"isShowing":true,"name":"Starter Channels"}]}
