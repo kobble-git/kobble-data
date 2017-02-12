@@ -1,11 +1,1 @@
-{"groups":[
-   { "isShowing":true, 
-     "isToggled" : false,
-     "key" : "xdfkey",
-     "name":"Starter Channels",
-     "channels":[
-      {"channel":{"owner":"kobble-git","path":"channels/kobble.json","repo":"kobble-data-common"},"subtitle":"Kobble Base Tracks","title":"Kobble"}
-     ]
-   }
- ]
-}
+{"groups":[{"channels":[{"channel":{"owner":"kobble-git","path":"channels/kobble.json","repo":"kobble-data-common"},"subtitle":"Kobble Base Tracks","title":"Kobble"}],"isShowing":true,"isToggled":true,"key":"ChannelsState/0.6383104248360885","name":"Starter Channels"}]}
